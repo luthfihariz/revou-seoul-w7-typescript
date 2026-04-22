@@ -35,3 +35,5 @@ let cityObject = {
 // Arrays
 
 let mixedList: (string | number | boolean | {name: string; age: number;} )[] = ["abc", 123, true, user];
+
+export {};
